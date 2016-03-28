@@ -1,6 +1,6 @@
 *.class
 *.log
-
+*.ipr
 # sbt specific
 .cache
 .history
